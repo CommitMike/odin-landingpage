@@ -24,6 +24,10 @@ Quote text: 36px light italic #1F2937
 
 */
 
+body {
+    font-family: "Roboto", sans-serif;
+}
+
 .hero, .footer {
     background-color: #1F2937;
     color: #fff;
