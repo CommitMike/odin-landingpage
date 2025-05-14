@@ -1,0 +1,34 @@
+/* 
+
+Font: Roboto
+
+Dark background for hero and footer: #1F2937 [x]
+
+Hero Main Text 'this website is awesome'" 48px #F9FAF8 weight: 900
+
+Hero secondary text, header link text: 18px #E5E7EB
+
+Hero Logo Text: 24px #F9FAF8
+
+--
+
+Button color, call to action background color: #3882F6
+
+Information header text: 36px #F12937 weight: 900
+
+--
+
+Quote section bg color: #E5E7EB
+
+Quote text: 36px light italic #1F2937
+
+*/
+
+.hero, .footer {
+    background-color: #1F2937;
+    color: #fff;
+}
+
+.quote-container {
+    background-color: #E5E7EB;
+}
