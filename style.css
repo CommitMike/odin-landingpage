@@ -228,14 +228,6 @@ Call to action
     max-width: 70%;
 }
 
-.action-container-left {
-
-}
-
-.action-container-right {
-
-}
-
 .action-container p {
     color: #fff;
     font-size: 26px;
@@ -256,4 +248,17 @@ Call to action
 /* ==========
 Footer
 ========== */
+
+.footer {
+    background-color: #1F2937;
+}
+
+.footer p {
+    margin: 0;
+    text-align: center;
+    font-size: 18px;
+    padding: 40px 0;
+    font-weight: 300;
+    color: #b8b7b7;
+}
 
